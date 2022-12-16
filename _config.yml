@@ -7,10 +7,10 @@ description: Ein videobasierter Guide zum Bemalen von Miniaturen!
 owner: Julian Staab
 first_published: 2022 
 email: julianstaab@web.de
-baseurl: "/spectral" # the subpath of your site, e.g. /blog
+baseurl: "/LukasLerntMalen" # the subpath of your site, e.g. /blog
 url: "http://emiliehk.github.io" # the base hostname & protocol for your site
 social:
-  github: https://github.com/<username>
+  github: https://github.com/EmilieHK/LukasLerntMalen
   #email: /contact/
   #flickr:
   #instagram:
