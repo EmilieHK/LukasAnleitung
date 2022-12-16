@@ -967,13 +967,11 @@ $baseurl: '{{ site.baseurl }}/images';
     .video {
         @include vendor('order', '1');
         border-radius: 0;
-        padding-left: 10em;
-        width: 40%;
-        height: 100%
 
         iframe {
             border-radius: 0;
-            width: 100%;
+            width: 40%;
+            height: 100%
         }
     }
 
