@@ -4,7 +4,7 @@
 # Site settings
 title: Lukas Lernt Malen
 description: Ein videobasierter Guide zum Bemalen von Miniaturen!
-owner: Julian Staab
+owner: Lukas Staab
 first_published: 2022 
 email: julianstaab@web.de
 baseurl: "/LukasLerntMalen" # the subpath of your site, e.g. /blog
