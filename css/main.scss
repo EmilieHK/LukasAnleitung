@@ -972,6 +972,10 @@ $baseurl: '{{ site.baseurl }}/images';
     @include vendor('align-items', 'center');
     @include vendor('display', 'flex');
 
+    .video {
+        width: 40%;
+    }
+
     .content {
         @include padding(2em, 4em);
         @include vendor('order', '2');
