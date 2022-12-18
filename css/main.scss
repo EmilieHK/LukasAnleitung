@@ -977,6 +977,7 @@ $baseurl: '{{ site.baseurl }}/images';
         @include vendor('order', '2');
         max-width: 32em;
         width: 40%;
+        text-align:center;
     }
 
     .content {
